@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549961650 source:c:\users\ismail\documents\2eme\code-en-c-de-oe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
